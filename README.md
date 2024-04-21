@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am a web developer passionate about discovering the details that make an object special. 
+
+I'm currently learning backend with Python.
 <!--
 **maralobes/maralobes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
