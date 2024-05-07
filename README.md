@@ -1,5 +1,17 @@
 # 💫 About Me:
-# About Me<br><br>Hey there! 👋 I'm María, a passionate Web Developer on a continuous journey of learning and growth. With a background rooted in philology, I bring a unique blend of soft skills and technical expertise to the table.<br><br>## Soft Skills<br><br>- **Communication**: My experience in philology has instilled in me the art of effective communication 🗣️, enabling me to convey complex ideas in a clear and concise manner.<br>  <br>- **Attention to Detail**: Whether it's crafting lines of code or perfecting a recipe, I thrive on the meticulous attention to detail that ensures quality and precision in everything I do. 🔍<br>  <br>- **Problem-Solving**: I approach challenges with a strategic mindset, leveraging my analytical skills to identify solutions and navigate obstacles effectively. 💡<br><br>## Web Development Journey<br><br>Currently, I'm diving deep into the world of web development, expanding my skill set beyond frontend technologies. I'm particularly excited about delving into backend development with Python 🐍, exploring its vast capabilities and building robust, scalable solutions.<br><br>## Hobbies<br><br>When I'm not immersed in the world of coding, you'll often find me in the kitchen whipping up delightful treats 🍰, especially indulging in my love for baking. There's something magical about the alchemy of ingredients coming together to create something delicious. 🌟<br><br>I also have a green thumb 🌿 and a passion for plants. Whether it's nurturing a thriving indoor jungle 🌱 or experimenting with new varieties in the garden, I find joy in the tranquility and beauty of nature's creations. 🌺<br><br>In essence, I'm a curious soul driven by a love for learning, a passion for creativity, and an appreciation for the simple joys of life. ✨<br>
+Hey there! 👋 I'm María, a passionate Web Developer on a continuous journey of learning and growth. With a background rooted in philology, I bring a unique blend of soft skills and technical expertise to the table.<br><br>
+
+## Soft Skills<br><br>
+
+- **Communication**: My experience in philology has instilled in me the art of effective communication 🗣️, enabling me to convey complex ideas in a clear and concise manner.<br> <br>
+- **Attention to Detail**: Whether it's crafting lines of code or perfecting a recipe, I thrive on the meticulous attention to detail that ensures quality and precision in everything I do. 🔍<br>  <br>
+- **Problem-Solving**: I approach challenges with a strategic mindset, leveraging my analytical skills to identify solutions and navigate obstacles effectively. 💡<br><br>
+
+## Web Development Journey<br><br>
+Currently, I'm diving deep into the world of web development, expanding my skill set beyond frontend technologies. I'm particularly excited about delving into backend development with Python 🐍, exploring its vast capabilities and building robust, scalable solutions.<br><br>
+
+## Hobbies<br><br>
+When I'm not immersed in the world of coding, you'll often find me in the kitchen whipping up delightful treats 🍰, especially indulging in my love for baking. There's something magical about the alchemy of ingredients coming together to create something delicious. 🌟<br><br>I also have a green thumb 🌿 and a passion for plants. Whether it's nurturing a thriving indoor jungle 🌱 or experimenting with new varieties in the garden, I find joy in the tranquility and beauty of nature's creations. 🌺<br><br>In essence, I'm a curious soul driven by a love for learning, a passion for creativity, and an appreciation for the simple joys of life. ✨<br>
 
 
 ## 🌐 Socials:
