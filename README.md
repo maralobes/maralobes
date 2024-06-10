@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! 👋 I'm María, a passionate Web Developer on a continuous journey of learning and growth. With a background rooted in philology, I bring a unique blend of soft skills and technical expertise to the table.<br><br>
+Hey there! 👋 I'm María, a passionate Web Developer on a continuous journey of learning and growth. With a background rooted in literature and linguistics, I bring a unique blend of soft skills and technical expertise to the table.<br><br>
 
 ## Soft Skills<br><br>
 
